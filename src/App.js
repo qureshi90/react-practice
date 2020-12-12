@@ -22,6 +22,7 @@ function App() {
       <Boundary />
       <p>changes are made fo test purpose</p>
       <p>changes are made fo test purpose</p>
+      <p>another change</p>
     </div>
   );
 }
