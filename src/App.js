@@ -20,9 +20,6 @@ function App() {
       <Toggle />
       <Click />
       <Boundary />
-      <p>changes are made fo test purpose</p>
-      <p>another change</p>
-      <p>after adding a branch</p>
     </div>
   );
 }
